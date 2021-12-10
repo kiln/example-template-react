@@ -15,6 +15,13 @@ settings:
     name: Number of circles
     type: number
 
+  - property: theme
+    name: Colour theme
+    type: string
+    choices:
+      - [ Light, light ]
+      - [ Dark, dark ]
+
 data:
   # The data section determines how data is made available to your template,
   # and the sample data that is used. See the documentation.

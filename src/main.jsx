@@ -5,6 +5,7 @@ import App from "./App";
 
 let flourishState = {
   numCircles: 25,
+  theme: "light",
 };
 
 function renderApp(state) {
