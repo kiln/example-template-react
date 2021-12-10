@@ -1,0 +1,20 @@
+id: vue-3-circles
+name: Vue 3 Circles
+author: Andrew Walker
+sdk_version: 3
+
+build:
+  src:
+    directory: src
+    script: npm run build
+    files:
+      - vite.config.js
+
+settings:
+  - property: numCircles
+    name: Number of circles
+    type: number
+
+data:
+  # The data section determines how data is made available to your template,
+  # and the sample data that is used. See the documentation.
