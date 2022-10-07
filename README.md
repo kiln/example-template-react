@@ -7,7 +7,7 @@ This simple example uses React to draw a specified number of colorful circles at
 ## How this works
 
 - `template.yml` has settings for the number of circles and theme
-- In `src/App.jsx` an SVG is created with specified theme, drawing the specified number of circles with randomised positions, radii & colors
+- In `src/App.jsx` an SVG is created with specified theme, drawing the specified number of circles with randomized positions, radii & colors
 
 ## How to run this
 
