@@ -1,6 +1,6 @@
-id: vue-3-circles
-name: Vue 3 Circles
-author: Andrew Walker
+id: react-circles
+name: React Circles
+author: Flourish team
 sdk_version: 3
 
 build:
